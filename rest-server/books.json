@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "isbn": "123",
+      "title": "Dune",
+      "price": 12.95
+    },
+    {
+      "id": 1,
+      "isbn": "456",
+      "title": "The Stranger on the Train",
+      "price": 11
+    },
+    {
+      "id": 2,
+      "isbn": "789",
+      "title": "War and Peace",
+      "price": 8.95
+    }
+  ]
+}
